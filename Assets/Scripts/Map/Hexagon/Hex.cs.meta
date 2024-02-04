@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5e944fd6ca9f63f449e64d6d4f48d9c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - railManager: {fileID: 1545809390322992829, guid: 631af9199baf83940a845211b3b97a8a, type: 3}
+  - billboardPrefab: {fileID: 1044092409161043644, guid: 54e85d61f880da14ea74841a7ccfbcdf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

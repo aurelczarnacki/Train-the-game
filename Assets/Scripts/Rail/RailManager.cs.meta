@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6bcd53925d7b99d4c845f02cde9c57ac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sharpRail: {fileID: 2009346077682562378, guid: 2b864cbf57345fc409299e336a518ac1, type: 3}
+  - turnedRail: {fileID: 4933976204158315393, guid: 9477efd8aa91e554db79508e0b60ea68, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
