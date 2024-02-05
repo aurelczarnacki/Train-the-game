@@ -20,12 +20,6 @@ All objects and animations were created using **Blender**.
 
 ## Technical Requirements
 To run the repository, it is recommended to use Unity engine version **2022.3.14f1**.
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 ***
 ## Screenshots
 <p align="center">
