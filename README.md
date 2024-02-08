@@ -7,7 +7,7 @@ Train is a mobile game where the player's task is to guide their train for the l
 
 ## Technology 
 #### Engine
-The project was developed using the **Unit engine**. 
+The project was developed using the **Unity engine**. 
 
 #### Language
 The entire game code was written in **C#**.
